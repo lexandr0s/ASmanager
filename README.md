@@ -1,0 +1,2 @@
+# ASmanager
+Autoswitch manager
