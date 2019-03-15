@@ -1,0 +1,174 @@
+[
+  {
+    "hive_fs": "Autoswitch Keccak",
+    "algo": "Keccak",
+    "bench": 0,
+    "mining": 1,
+    "mult": 6,
+    "nice_algo": 5,
+    "fs_id": 0
+  },
+  {
+    "hive_fs": "Autoswitch Nist5",
+    "algo": "Nist5",
+    "bench": 0,
+    "mining": 1,
+    "mult": 6,
+    "nice_algo": 7,
+    "fs_id": 0
+  },
+  {
+    "hive_fs": "Autoswitch NeoScrypt",
+    "algo": "NeoScrypt",
+    "bench": 0,
+    "mining": 1,
+    "mult": 6,
+    "nice_algo": 8,
+    "fs_id": 0
+  },
+  {
+    "hive_fs": "Autoswitch Lyra2RE",
+    "algo": "Lyra2RE",
+    "bench": 0,
+    "mining": 0,
+    "mult": 6,
+    "nice_algo": 9,
+    "fs_id": 0
+  },
+  {
+    "hive_fs": "Autoswitch Lyra2RE2",
+    "algo": "Lyra2RE2",
+    "bench": 0,
+    "mining": 1,
+    "mult": 6,
+    "nice_algo": 14,
+    "fs_id": 0
+  },
+  {
+    "hive_fs": "Autoswitch Ethash",
+    "algo": "Ethash",
+    "bench": 0,
+    "mining": 1,
+    "mult": 6,
+    "nice_algo": 20,
+    "fs_id": 0
+  },
+  {
+    "hive_fs": "Autoswitch Skunk",
+    "algo": "Skunk",
+    "bench": 0,
+    "mining": 1,
+    "mult": 6,
+    "nice_algo": 29,
+    "fs_id": 0
+  },
+  {
+    "hive_fs": "Autoswitch CryptoNightV7",
+    "algo": "CryptoNightV7",
+    "bench": 0,
+    "mining": 1,
+    "mult": 3,
+    "nice_algo": 30,
+    "fs_id": 0
+  },
+  {
+    "hive_fs": "Autoswitch CryptoNightHeavy",
+    "algo": "CryptoNightHeavy",
+    "bench": 0,
+    "mining": 1,
+    "mult": 3,
+    "nice_algo": 31,
+    "fs_id": 0
+  },
+  {
+    "hive_fs": "Autoswitch Lyra2Z",
+    "algo": "Lyra2Z",
+    "bench": 0,
+    "mining": 1,
+    "mult": 6,
+    "nice_algo": 32,
+    "fs_id": 0
+  },
+  {
+    "hive_fs": "Autoswitch X16r",
+    "algo": "X16r",
+    "bench": 0,
+    "mining": 1,
+    "mult": 6,
+    "nice_algo": 33,
+    "fs_id": 0
+  },
+  {
+    "hive_fs": "Autoswitch CryptoNightV8",
+    "algo": "CryptoNightV8",
+    "bench": 0,
+    "mining": 1,
+    "mult": 3,
+    "nice_algo": 34,
+    "fs_id": 0
+  },
+  {
+    "hive_fs": "Autoswitch Zhash",
+    "algo": "Zhash",
+    "bench": 0,
+    "mining": 1,
+    "mult": 0,
+    "nice_algo": 36,
+    "fs_id": 0
+  },
+  {
+    "hive_fs": "Autoswitch Beam",
+    "algo": "Beam",
+    "bench": 0,
+    "mining": 1,
+    "mult": 0,
+    "nice_algo": 37,
+    "fs_id": 0
+  },
+  {
+    "hive_fs": "Autoswitch Grin29",
+    "algo": "Grin29",
+    "bench": 0,
+    "mining": 1,
+    "mult": 0,
+    "nice_algo": 38,
+    "fs_id": 0
+  },
+  {
+    "hive_fs": "Autoswitch Grin31",
+    "algo": "Grin31",
+    "bench": 0,
+    "mining": 1,
+    "mult": 0,
+    "nice_algo": 39,
+    "fs_id": 0
+  },
+  {
+    "hive_fs": "Autoswitch Lyra2rev3",
+    "algo": "Lyra2rev3",
+    "bench": 0,
+    "mining": 1,
+    "mult": 6,
+    "nice_algo": 40,
+    "fs_id": 0
+  },
+  {
+    "hive_fs": "Autoswitch MTP",
+    "algo": "MTP",
+    "bench": 0,
+    "mining": 1,
+    "mult": 6,
+    "nice_algo": 41,
+    "fs_id": 0
+  },
+  {
+    "hive_fs": "Autoswitch CryptoNightR",
+    "algo": "CryptoNightR",
+    "bench": 0,
+    "mining": 1,
+    "mult": 3,
+    "nice_algo": 42,
+    "fs_id": 0
+  }
+]
+
