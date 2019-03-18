@@ -1,0 +1,122 @@
+{
+  "id": 0,
+  "name": "default",
+  "token": "token",
+  "farm_id": 0,
+  "algos": [
+    {
+      "name": "Keccak",
+      "hr": 0.0,
+      "pow": 0.0,
+      "id": 5
+    },
+    {
+      "name": "Nist5",
+      "hr": 0.0,
+      "pow": 0.0,
+      "id": 7
+    },
+    {
+      "name": "NeoScrypt",
+      "hr": 0.0,
+      "pow": 0.0,
+      "id": 8
+    },
+    {
+      "name": "Lyra2RE",
+      "hr": 0.0,
+      "pow": 0.0,
+      "id": 9
+    },
+    {
+      "name": "Lyra2RE2",
+      "hr": 0.0,
+      "pow": 0.0,
+      "id": 14
+    },
+    {
+      "name": "Ethash",
+      "hr": 0.0,
+      "pow": 0.0,
+      "id": 20
+    },
+    {
+      "name": "Skunk",
+      "hr": 0.0,
+      "pow": 0.0,
+      "id": 29
+    },
+    {
+      "name": "CryptoNightV7",
+      "hr": 0.0,
+      "pow": 0.0,
+      "id": 30
+    },
+    {
+      "name": "CryptoNightHeavy",
+      "hr": 0.0,
+      "pow": 0.0,
+      "id": 31
+    },
+    {
+      "name": "Lyra2Z",
+      "hr": 0.0,
+      "pow": 0.0,
+      "id": 32
+    },
+    {
+      "name": "X16r",
+      "hr": 0.0,
+      "pow": 0.0,
+      "id": 33
+    },
+    {
+      "name": "CryptoNightV8",
+      "hr": 0.0,
+      "pow": 0.0,
+      "id": 34
+    },
+    {
+      "name": "Zhash",
+      "hr": 0.0,
+      "pow": 0.0,
+      "id": 36
+    },
+    {
+      "name": "Beam",
+      "hr": 0.0,
+      "pow": 0.0,
+      "id": 37
+    },
+    {
+      "name": "Grin29",
+      "hr": 0.0,
+      "pow": 0.0,
+      "id": 38
+    },
+    {
+      "name": "Grin31",
+      "hr": 0.0,
+      "pow": 0.0,
+      "id": 39
+    },
+    {
+      "name": "Lyra2rev3",
+      "hr": 0.0,
+      "pow": 0.0,
+      "id": 40
+    },
+    {
+      "name": "MTP",
+      "hr": 0.0,
+      "pow": 0.0,
+      "id": 41
+    },
+    {
+      "name": "CryptoNightR",
+      "hr": 0.0,
+      "pow": 0.0,
+      "id": 42
+    }
+  ]
+}
