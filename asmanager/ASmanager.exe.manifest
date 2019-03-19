@@ -55,14 +55,14 @@
     </dependentAssembly>
   </dependency>
   <dependency>
-    <dependentAssembly dependencyType="install" allowDelayedBinding="true" codebase="ASmanager.exe" size="168856">
+    <dependentAssembly dependencyType="install" allowDelayedBinding="true" codebase="ASmanager.exe" size="206232">
       <assemblyIdentity name="ASmanager" version="1.0.0.0" language="neutral" processorArchitecture="msil" />
       <hash>
         <dsig:Transforms>
           <dsig:Transform Algorithm="urn:schemas-microsoft-com:HashTransforms.Identity" />
         </dsig:Transforms>
         <dsig:DigestMethod Algorithm="http://www.w3.org/2000/09/xmldsig#sha256" />
-        <dsig:DigestValue>7Ad4y2SxZ4kAZSwdZU6qPGgh60m3k1yv6uWKr2Ax590=</dsig:DigestValue>
+        <dsig:DigestValue>dKPh/I01zDKeEj97BiX8GSmgpnZpBxRdNHtlZm4b5RM=</dsig:DigestValue>
       </hash>
     </dependentAssembly>
   </dependency>
