@@ -4,7 +4,7 @@
   <description asmv2:iconFile="hive_logo_cwX_icon.ico" xmlns="urn:schemas-microsoft-com:asm.v1" />
   <application />
   <entryPoint>
-    <assemblyIdentity name="ASmanager" version="1.1.4.0" language="neutral" processorArchitecture="msil" />
+    <assemblyIdentity name="ASmanager" version="1.1.5.0" language="neutral" processorArchitecture="msil" />
     <commandLine file="ASmanager.exe" parameters="" />
   </entryPoint>
   <trustInfo>
@@ -43,26 +43,26 @@
     </dependentAssembly>
   </dependency>
   <dependency>
-    <dependentAssembly dependencyType="install" allowDelayedBinding="true" codebase="ASlib.dll" size="37888">
+    <dependentAssembly dependencyType="install" allowDelayedBinding="true" codebase="ASlib.dll" size="38400">
       <assemblyIdentity name="ASlib" version="1.0.0.0" language="neutral" processorArchitecture="msil" />
       <hash>
         <dsig:Transforms>
           <dsig:Transform Algorithm="urn:schemas-microsoft-com:HashTransforms.Identity" />
         </dsig:Transforms>
         <dsig:DigestMethod Algorithm="http://www.w3.org/2000/09/xmldsig#sha256" />
-        <dsig:DigestValue>fTKALyqcJ9a8UsR1yQzisuQXLgNpHS1zUIWieTWSpRA=</dsig:DigestValue>
+        <dsig:DigestValue>lpO6Du5g1KauBKC0lRy+JF409FPTyMY6vF1dE8D+Dlc=</dsig:DigestValue>
       </hash>
     </dependentAssembly>
   </dependency>
   <dependency>
-    <dependentAssembly dependencyType="install" allowDelayedBinding="true" codebase="ASmanager.exe" size="244632">
-      <assemblyIdentity name="ASmanager" version="1.1.4.0" language="neutral" processorArchitecture="msil" />
+    <dependentAssembly dependencyType="install" allowDelayedBinding="true" codebase="ASmanager.exe" size="247192">
+      <assemblyIdentity name="ASmanager" version="1.1.5.0" language="neutral" processorArchitecture="msil" />
       <hash>
         <dsig:Transforms>
           <dsig:Transform Algorithm="urn:schemas-microsoft-com:HashTransforms.Identity" />
         </dsig:Transforms>
         <dsig:DigestMethod Algorithm="http://www.w3.org/2000/09/xmldsig#sha256" />
-        <dsig:DigestValue>9WqiGvzytuxc1XJEpT1xD5HqYDorJ02uVBmRy2ps1Wg=</dsig:DigestValue>
+        <dsig:DigestValue>24WyexK96v6fD6S1zzSgz2JerbHSWQ6NLeyM3fcgiW8=</dsig:DigestValue>
       </hash>
     </dependentAssembly>
   </dependency>
