@@ -169,5 +169,14 @@
     "mult": 3,
     "nice_algo": 42,
     "fs_id": 0
+  },
+  {
+    "hive_fs": "Autoswitch CuckooAE",
+    "algo": "CuckooAE",
+    "bench": 0,
+    "mining": 1,
+    "mult": 0,
+    "nice_algo": 43,
+    "fs_id": 0
   }
 ]
