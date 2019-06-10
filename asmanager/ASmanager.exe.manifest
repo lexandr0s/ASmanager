@@ -4,7 +4,7 @@
   <description asmv2:iconFile="hive_logo_cwX_icon.ico" xmlns="urn:schemas-microsoft-com:asm.v1" />
   <application />
   <entryPoint>
-    <assemblyIdentity name="ASmanager" version="1.1.6.0" language="neutral" processorArchitecture="msil" />
+    <assemblyIdentity name="ASmanager" version="1.1.7.0" language="neutral" processorArchitecture="msil" />
     <commandLine file="ASmanager.exe" parameters="" />
   </entryPoint>
   <trustInfo>
@@ -43,26 +43,26 @@
     </dependentAssembly>
   </dependency>
   <dependency>
-    <dependentAssembly dependencyType="install" allowDelayedBinding="true" codebase="ASlib.dll" size="38400">
+    <dependentAssembly dependencyType="install" allowDelayedBinding="true" codebase="ASlib.dll" size="38912">
       <assemblyIdentity name="ASlib" version="1.0.0.0" language="neutral" processorArchitecture="msil" />
       <hash>
         <dsig:Transforms>
           <dsig:Transform Algorithm="urn:schemas-microsoft-com:HashTransforms.Identity" />
         </dsig:Transforms>
         <dsig:DigestMethod Algorithm="http://www.w3.org/2000/09/xmldsig#sha256" />
-        <dsig:DigestValue>XJ0eghG1qJrQuk8X9iM/FtLNHL0GKTgEA4qvqTHXcPQ=</dsig:DigestValue>
+        <dsig:DigestValue>A856nOF/rrZWVkV5124pmIaDHJmLa7ZugpY+n/J3dvM=</dsig:DigestValue>
       </hash>
     </dependentAssembly>
   </dependency>
   <dependency>
     <dependentAssembly dependencyType="install" allowDelayedBinding="true" codebase="ASmanager.exe" size="247192">
-      <assemblyIdentity name="ASmanager" version="1.1.6.0" language="neutral" processorArchitecture="msil" />
+      <assemblyIdentity name="ASmanager" version="1.1.7.0" language="neutral" processorArchitecture="msil" />
       <hash>
         <dsig:Transforms>
           <dsig:Transform Algorithm="urn:schemas-microsoft-com:HashTransforms.Identity" />
         </dsig:Transforms>
         <dsig:DigestMethod Algorithm="http://www.w3.org/2000/09/xmldsig#sha256" />
-        <dsig:DigestValue>33dUTQwnjAw9IbhXGU5zfE1/o/hxNA7EmGOzBtJfyCU=</dsig:DigestValue>
+        <dsig:DigestValue>fR655WjzL2NjA+AnUYRMJpE1x0580HDGVH6oMIC7oo4=</dsig:DigestValue>
       </hash>
     </dependentAssembly>
   </dependency>
