@@ -4,7 +4,7 @@
   <description asmv2:iconFile="hive_logo_cwX_icon.ico" xmlns="urn:schemas-microsoft-com:asm.v1" />
   <application />
   <entryPoint>
-    <assemblyIdentity name="ASmanager" version="1.1.7.0" language="neutral" processorArchitecture="msil" />
+    <assemblyIdentity name="ASmanager" version="1.1.8.0" language="neutral" processorArchitecture="msil" />
     <commandLine file="ASmanager.exe" parameters="" />
   </entryPoint>
   <trustInfo>
@@ -50,19 +50,19 @@
           <dsig:Transform Algorithm="urn:schemas-microsoft-com:HashTransforms.Identity" />
         </dsig:Transforms>
         <dsig:DigestMethod Algorithm="http://www.w3.org/2000/09/xmldsig#sha256" />
-        <dsig:DigestValue>A856nOF/rrZWVkV5124pmIaDHJmLa7ZugpY+n/J3dvM=</dsig:DigestValue>
+        <dsig:DigestValue>9iINjV6KYBgX/9YUihzpU4PSIaCRbjv83efwShbtkDM=</dsig:DigestValue>
       </hash>
     </dependentAssembly>
   </dependency>
   <dependency>
-    <dependentAssembly dependencyType="install" allowDelayedBinding="true" codebase="ASmanager.exe" size="247192">
-      <assemblyIdentity name="ASmanager" version="1.1.7.0" language="neutral" processorArchitecture="msil" />
+    <dependentAssembly dependencyType="install" allowDelayedBinding="true" codebase="ASmanager.exe" size="248216">
+      <assemblyIdentity name="ASmanager" version="1.1.8.0" language="neutral" processorArchitecture="msil" />
       <hash>
         <dsig:Transforms>
           <dsig:Transform Algorithm="urn:schemas-microsoft-com:HashTransforms.Identity" />
         </dsig:Transforms>
         <dsig:DigestMethod Algorithm="http://www.w3.org/2000/09/xmldsig#sha256" />
-        <dsig:DigestValue>fR655WjzL2NjA+AnUYRMJpE1x0580HDGVH6oMIC7oo4=</dsig:DigestValue>
+        <dsig:DigestValue>IfVRbzoMeW60RnApq3gRHyHBAs5HFe3wgE5EAuKtaNc=</dsig:DigestValue>
       </hash>
     </dependentAssembly>
   </dependency>
