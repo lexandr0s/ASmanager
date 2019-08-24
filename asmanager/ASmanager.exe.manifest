@@ -4,7 +4,7 @@
   <description asmv2:iconFile="hive_logo_cwX_icon.ico" xmlns="urn:schemas-microsoft-com:asm.v1" />
   <application />
   <entryPoint>
-    <assemblyIdentity name="ASmanager" version="1.1.8.0" language="neutral" processorArchitecture="msil" />
+    <assemblyIdentity name="ASmanager" version="1.1.9.0" language="neutral" processorArchitecture="msil" />
     <commandLine file="ASmanager.exe" parameters="" />
   </entryPoint>
   <trustInfo>
@@ -56,13 +56,13 @@
   </dependency>
   <dependency>
     <dependentAssembly dependencyType="install" allowDelayedBinding="true" codebase="ASmanager.exe" size="248216">
-      <assemblyIdentity name="ASmanager" version="1.1.8.0" language="neutral" processorArchitecture="msil" />
+      <assemblyIdentity name="ASmanager" version="1.1.9.0" language="neutral" processorArchitecture="msil" />
       <hash>
         <dsig:Transforms>
           <dsig:Transform Algorithm="urn:schemas-microsoft-com:HashTransforms.Identity" />
         </dsig:Transforms>
         <dsig:DigestMethod Algorithm="http://www.w3.org/2000/09/xmldsig#sha256" />
-        <dsig:DigestValue>IfVRbzoMeW60RnApq3gRHyHBAs5HFe3wgE5EAuKtaNc=</dsig:DigestValue>
+        <dsig:DigestValue>zwxbjepes175ILXQp4kjwJekeHxUC+smXwAmjjpR7zU=</dsig:DigestValue>
       </hash>
     </dependentAssembly>
   </dependency>
