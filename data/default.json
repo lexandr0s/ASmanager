@@ -210,14 +210,14 @@
       "name": "Zelhash",
       "hr": 0.0,
       "pow": 0.0,
-      "id": 63
+      "id": 64
     }
     ,
     {
       "name": "ETCHash",
       "hr": 0.0,
       "pow": 0.0,
-      "id": 63
+      "id": 65
     }
   ]
 }
