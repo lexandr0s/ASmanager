@@ -122,7 +122,7 @@
       "name": "CuckooAE",
       "hr": 0.0,
       "pow": 0.0,
-      "id": 43
+      "id": 50
     },
     {
       "name": "Grin29d",
@@ -135,89 +135,6 @@
       "hr": 0.0,
       "pow": 0.0,
       "id": 52
-    },
-    {
-      "name": "X16Rv2",
-      "hr": 0.0,
-      "pow": 0.0,
-      "id": 53
-    },
-    {
-      "name": "RandomX",
-      "hr": 0.0,
-      "pow": 0.0,
-      "id": 54
-    },
-    {
-      "name": "Eaglesong",
-      "hr": 0.0,
-      "pow": 0.0,
-      "id": 55
-    },
-    {
-      "name": "Cuckaroom",
-      "hr": 0.0,
-      "pow": 0.0,
-      "id": 56
-    },
-    {
-      "name": "Cuckatoo32",
-      "hr": 0.0,
-      "pow": 0.0,
-      "id": 57
-    },
-    {
-      "name": "KawPow",
-      "hr": 0.0,
-      "pow": 0.0,
-      "id": 58
-    },
-    {
-      "name": "CuckarooBFC",
-      "hr": 0.0,
-      "pow": 0.0,
-      "id": 59
-    },
-    {
-      "name": "BeamV3",
-      "hr": 0.0,
-      "pow": 0.0,
-      "id": 60
-    }
-    ,
-    {
-      "name": "CuckaRooz29",
-      "hr": 0.0,
-      "pow": 0.0,
-      "id": 61
-    }
-    ,
-    {
-      "name": "Octopus",
-      "hr": 0.0,
-      "pow": 0.0,
-      "id": 62
-    }
-    ,
-    {
-      "name": "Autolykos",
-      "hr": 0.0,
-      "pow": 0.0,
-      "id": 63
-    }
-    ,
-    {
-      "name": "Zelhash",
-      "hr": 0.0,
-      "pow": 0.0,
-      "id": 64
-    }
-    ,
-    {
-      "name": "ETCHash",
-      "hr": 0.0,
-      "pow": 0.0,
-      "id": 65
     }
   ]
 }
