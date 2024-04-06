@@ -240,5 +240,26 @@
       "pow": 0.0,
       "id": 68
     }
+    ,
+    {
+      "name": "KarlsenHash",
+      "hr": 0.0,
+      "pow": 0.0,
+      "id": 68
+    }
+    ,
+    {
+      "name": "Alephium",
+      "hr": 0.0,
+      "pow": 0.0,
+      "id": 68
+    }
+    ,
+    {
+      "name": "FishHash",
+      "hr": 0.0,
+      "pow": 0.0,
+      "id": 68
+    }
   ]
 }
